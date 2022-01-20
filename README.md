@@ -1,3 +1,5 @@
+![](https://github.com/lisabroadhead/carAccidentInfoGraphic/blob/main/infographic.png)
+
 # carAccidentInfoGraphic
 Interactive Infographic - using HTML, JS/jQuery, CSS, GreenSock, MagicScroll
 
