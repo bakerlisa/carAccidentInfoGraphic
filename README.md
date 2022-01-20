@@ -1,2 +1,2 @@
 # carAccidentInfoGraphic
-Interactive Infographic - using HTML, JS, CSS, GreenSock, MagicScroll
+Interactive Infographic - using HTML, JS/jQuery, CSS, GreenSock, MagicScroll
